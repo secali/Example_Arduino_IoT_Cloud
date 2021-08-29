@@ -1,4 +1,4 @@
-# Ejemplo-Arduino-IoT-Nube
-Project in which an Arduino obtained temperature data, was connected to a Raspberry that created a small server showing the information in a graph.
+# Sistema Ciberfísico IOT-Arduino
+Proyecto en el que un Arduino obtiene datos de temperatura, se conecta a una Raspberry que creaba un pequeño servidor mostrando la información en un gráfico.
 
-Final project on "Desarrollo de Aplicaciones para IoT" by Samsung & UMA-Link.
+Proyecto final de "Desarrollo de Aplicaciones para IoT" de Samsung & UMA-Link.
